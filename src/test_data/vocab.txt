@@ -1,0 +1,7 @@
+6
+hello
+world
+ciao
+mondo
+hola
+mundo
